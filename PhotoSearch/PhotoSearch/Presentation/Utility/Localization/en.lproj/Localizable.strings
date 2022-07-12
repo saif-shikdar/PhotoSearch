@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  PhotoSearch
+
+  Created by Saif on 04/07/22.
+  
+*/
+
+// Titles
+
+"alert" = "Alert";
+"search" = "Search";
+"gallery" = "Gallery";
+
+
+// API Errors
+"empty_response" = "Empty Response";
+"request_failed" = "Request Failed";
+"invalid_data" = "Invalid Data";
+"response_unsucessful" = "Response Unsucessful";
+"invalid_search" = "Pls Enter Keyword To Search";
+"parsing_failed" = "Data Parsing Failed";
